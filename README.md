@@ -14,3 +14,5 @@ consider changing the 'NumberHere' to the number of characters you want to displ
 ([('TextHere'[(x-y)%NumberHere ]
 ```
 ````
+
+![image](https://github.com/TheMikaros/PyTextHeart/assets/39964391/9d0a34e0-e03e-406b-8dee-adc51db869fc)
