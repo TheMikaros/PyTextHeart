@@ -1,6 +1,6 @@
 print('\n'.join
  ([''.join
-   ([('Merari'[(x-y)%8 ]
+   ([('TextHere'[(x-y)%NumberHere]
      if((x*0.05)**2+(y*0.1)**2-1)
       **3-(x*0.05)**2*(y*0.1)
        **3<=0 else' ')
